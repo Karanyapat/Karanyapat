@@ -50,4 +50,3 @@ A real-time web application for monitoring vehicles and suspicious activity at p
 ### 🔍 GitHub Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karanyapat&layout=compact&theme=tokyonight)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=karanyapat&show_icons=true&theme=tokyonight)
