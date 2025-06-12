@@ -18,29 +18,26 @@
 ### 🛠 Tech Stack
 
 **Languages:**  
-`JavaScript` `TypeScript` `Python` `C++`
+`TypeScript` `JavaScript` `Python` `php`
 
 **Frontend:**  
 `React` `Tailwind CSS` `HTML5` `CSS3`
 
 **Backend:**  
-`Node.js` `Express.js` `WebSocket` `REST API`
+`Node.js` `Express.js` `REST API`
 
 **Databases:**  
-`MongoDB` `PostgreSQL` `Firebase`
+`MySQL` `phpMyAdmin` `MongoDB`
 
 **Tools & Others:**  
-`Git` `GitHub` `Docker` `Figma` `VS Code`
+`GitHub` `Canva` `Figma` `VS Code` `Postman`
 
 ---
 
 ### 📌 Highlight Projects
 
-🔹 **[Police Checkpoint Monitoring System](https://github.com/yourusername/police-project)**  
+🔹 **[Police Checkpoint Monitoring System](https://project-police-cctv2.vercel.app/)**  
 A real-time web application for monitoring vehicles and suspicious activity at police checkpoints using WebSocket and multi-camera streaming.
-
-🔹 **[Multi-CCTV Dashboard](https://github.com/yourusername/cctv-dashboard)**  
-A dashboard system to monitor and switch between multiple camera feeds, integrated with map and vehicle tracking.
 
 ---
 
